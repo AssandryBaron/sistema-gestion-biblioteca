@@ -6,7 +6,7 @@ Proyecto desarrollado con [Next.js](https://nextjs.org) para la gestión de pré
 
 Este sistema permite a los usuarios visualizar el catálogo de libros, gestionar préstamos y administrar información básica de la biblioteca. Está pensado como una aplicación de ejemplo para prácticas de Ingeniería Web.
 
-# Despliegue
+### Despliegue
 
 
 
