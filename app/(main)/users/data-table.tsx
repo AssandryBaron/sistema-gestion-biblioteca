@@ -1,5 +1,5 @@
 'use client';
-import { User } from '@types/user';
+import { User } from "@/types/user";
 import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar';
 import {
   Table,
